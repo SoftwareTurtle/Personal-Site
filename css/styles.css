@@ -52,7 +52,7 @@ margin: 100px 0;
 }
 
 .bottom-container {
-  background: linear-gradient(#00E7FF, #009EFF, #0014FF);
+  background: linear-gradient(#0014FF, #009EFF, #00E7FF);
 padding: 50px 0 20px;
 }
 
@@ -145,7 +145,7 @@ hr {
 }
 
 .flaticon {
-  color: #00E7FF;
+  color: #000000;
 }
 
 .quote {
